@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GITHUB-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/mayankpandey9022 ">
+    <img src="https://img.shields.io/badge/GITHUB-mayankpandey9022 -181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <br/>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mayank-pandey-1bb913292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -18,11 +18,11 @@
 
 ## About Me
 
-Hey! I'm **Your Name**, a student/developer with a growing interest in **Data Analytics, Business Intelligence, and Data Science**.
+Hey! I'm **Mayank Pandey**, a student/developer with a growing interest in **Data Analytics, Business Intelligence, and Data Science**.
 
 I enjoy exploring datasets, finding meaningful patterns, and presenting information in a way that helps people understand data better. I'm building my skills through hands-on practice, dashboard development, Python notebooks, and personal projects.
 
-* **Education:** Your Degree, expected graduation in 2028
+* **Education:** MCA AI, expected graduation in 2028
 * **Career Focus:** Data Analytics and Business Intelligence
 * **Working With:** Excel, SQL, Python, Power BI, and Jupyter Notebook
 * **Currently Learning:** Data analysis, data visualization, SQL queries, and Python libraries
